@@ -9,7 +9,10 @@ class GitText1ApplicationTests {
     @Test
     void contextLoads() {
 
+
         System.out.println("1233 = " + 1233);
+
+
     }
 
 }
