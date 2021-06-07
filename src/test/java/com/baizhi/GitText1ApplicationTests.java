@@ -9,7 +9,7 @@ class GitText1ApplicationTests {
     @Test
     void contextLoads() {
 
-
+        System.out.println("456897 = " + 456897);
         System.out.println("1233 = " + 1233);
 
 
